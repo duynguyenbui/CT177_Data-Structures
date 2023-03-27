@@ -1,0 +1,2 @@
+readList(&L);
+printList(L);
